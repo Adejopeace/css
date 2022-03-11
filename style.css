@@ -1,0 +1,27 @@
+header{
+    font-style: oblique;
+    font-size: 80px;
+    color: rgb(56, 212, 9);
+    text-align: center;
+    
+}
+nav{
+    font-size: 30px;
+    text-align: left;
+    color: rgb(36, 170, 36);
+}
+h1{
+    color: rgb(56, 187, 56);
+}
+h3{
+    color:  rgb(56, 187, 56);
+}
+img{
+    width: 400px;
+    height: 330px;
+}
+footer{
+    text-indent: 100px;
+    font-style: italic;
+    font-size: 60px;
+}
